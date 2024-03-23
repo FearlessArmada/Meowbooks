@@ -8,6 +8,10 @@ Books are a human right and knowledge should not be locked behind paywalls. I ai
 - Retrieve book information based on book ID.
 - Retrieve download link for IPFS and Tor based mirrors.
 
+## Dependencies
+- [Python 3.6+](https://www.python.org/downloads/)
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [Requests](https://pypi.org/project/requests/)
 
 ## Usage
 
